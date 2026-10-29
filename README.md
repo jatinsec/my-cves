@@ -7,7 +7,7 @@ Repository Summary
 
 
 #	CVE ID	CVSS	Vulnerability	Year
-1	CVE-2026-21858	10.0	n8n Workflow Platform "Ni8mare" Upload Flaw	2026
+1	CVE-2026-21858	10.0	n8n Workflow Platform "Ni8mare" Upload Flaw	2026.
 2	CVE-2026-24061	9.8	GNU Inetutils Telnetd Auth Bypass	2026
 3	CVE-2026-24858	9.4	Fortinet FortiCloud SSO Authentication Bypass	2026
 4	CVE-2026-20805	5.5	Windows Desktop Window Manager Info Disclosure	2026
